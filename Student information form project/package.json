@@ -1,0 +1,16 @@
+{
+  "name": "simple-backend",
+  "version": "1.0.0",
+  "description": " This is the simple website, taking the user basic info, i am creating this for learning how to include the server and backend part ",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Suyog Repal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
