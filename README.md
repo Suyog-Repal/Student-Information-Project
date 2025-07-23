@@ -10,8 +10,7 @@ A simple and beautiful web application built using **Express.js**, **HTML**, and
 
 ## 📸 Preview
 
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/226a1c76-7a92-44c8-92d2-1c597ca7d6a1" />
-! 
+![Form Preview](<img width="1280" height="605" alt="image" src="https://github.com/user-attachments/assets/8ed1cf2e-925c-439a-888a-24cc9ddab56e" />)  
 > *Form screenshot — a clean and responsive student information form.*
 
 ---
